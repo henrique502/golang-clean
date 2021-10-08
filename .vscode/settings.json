@@ -1,0 +1,14 @@
+{
+  "workbench.colorCustomizations": {
+    "statusBar.background" : "#65a300",
+    "statusBar.foreground" : "#fff",
+    "statusBar.debuggingBackground": "#af0000",
+    "statusBar.debuggingForeground": "#fff",
+    "titleBar.activeBackground": "#65a300",
+    "titleBar.activeForeground":"#fff"
+  },
+  "go.lintTool":"golangci-lint",
+  "go.lintFlags": [
+    "--fast"
+  ]
+}
